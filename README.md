@@ -2,9 +2,9 @@
 
 👨‍🎓NAME :Kim Yechan  
 🏫 UNIVERSITY : Sejong.Univ  
-🎓¹ MAJOR : Department of Intelligent Mechanical Engineering majoring in Smart-Device Engineering  
+🎓¹ MAJOR : Smart Device Engineering, Department of Intelligent Mechatronics Engineering
 📚 LANGUAGE : Python, C  
-💬 Field : Data Analysis   
+💬 Field of interest : Data Analysis,Machune Learning
 
 
 
