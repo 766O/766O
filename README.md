@@ -20,7 +20,8 @@
 - 2023 세종대 소프트 융합대학 학술제 우수상
 
 ## Experience
-- Hanyang University, Seoul/Multimodal AI Lab Undergraduate Intern  ```(02/2024 ~ Present)```
+- Sejong University, Seoul / Sejong RCV lab URP program ```(07/2023 ~ 09/2023)```
+- Hanyang University, Seoul / Multimodal AI Lab Undergraduate Intern  ```(02/2024 ~ Present)```
 
 
 ## Blog
