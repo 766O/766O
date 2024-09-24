@@ -23,7 +23,11 @@
 - Sejong University, Seoul / Sejong RCV Lab URP program ```(07/2023 ~ 09/2023)```
 - Hanyang University, Seoul / Multimodal AI Lab Undergraduate Intern  ```(02/2024 ~ Present)```
 
-
+## Blog
+<div style="display:flex; flex-direction:row;">
+    <a href="https://dpcksdl78.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory"> 
+    </a>
 
    
 
