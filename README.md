@@ -11,13 +11,7 @@
 
 
 ## Field of interest
-- Prompt tuning
 - Multimodal Learning
-
-## Awards
-- 2022 세종대 소프트융합대학 학술제 장려상
-- 2023 세종대 AI Challenge 동상
-- 2023 세종대 소프트 융합대학 학술제 우수상
 
 ## Experience
 - Sejong University, Seoul / Sejong RCV Lab URP program ```(07/2023 ~ 09/2023)```
