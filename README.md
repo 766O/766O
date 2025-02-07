@@ -1,10 +1,10 @@
 ## About Me
 
-👨‍🎓NAME :Ye-Chan Kim
+👨‍🎓NAME : Ye-Chan Kim
 
 🏫  M.S./Ph.D. Integrated Dept of Artificial Intelligence, Hanyang University
 
-🏫 B.S.: Dept of Intelligent Mechatronics Engineering, Sejong University
+🏫 B.S. Dept of Intelligent Mechatronics Engineering, Sejong University
 
 
 
