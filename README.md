@@ -1,8 +1,11 @@
 ## About Me
 
-👨‍🎓NAME :Kim Yechan  
-🏫 UNIVERSITY : Sejong.Univ  
-🎓¹ MAJOR : Smart Device Engineering, Department of Intelligent Mechatronics Engineering  
+👨‍🎓NAME :Ye-Chan Kim
+
+🏫  M.S./Ph.D. Integrated Dept of Artificial Intelligence, Hanyang University
+
+🏫 B.S.: Dept of Intelligent Mechatronics Engineering, Sejong University
+
 
 
 ## Stacks
@@ -15,7 +18,8 @@
 
 ## Experience
 - Sejong University, Seoul / Sejong RCV Lab URP program ```(07/2023 ~ 09/2023)```
-- Hanyang University, Seoul / Multimodal AI Lab Undergraduate Intern  ```(02/2024 ~ Present)```
+- Hanyang University, Seoul / Multimodal AI Lab Undergraduate Intern  ```(02/2024 ~ 02/2025)```
+- Hanyang University, Seoul / Multimodal AI Lab M.S. / Ph.D. Integrated  ```(03/2025 ~ )```
 
 ## Blog
 <div style="display:flex; flex-direction:row;">
