@@ -6,15 +6,23 @@
 
 🏫 B.S. Dept of Intelligent Mechatronics Engineering, Sejong University
 
-
-
-## Stacks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-
 ## Field of interest
 - Multimodal Learning
+- VLM
+- Prompt
+
+## News
+**Mar  2025** One paper is accepted in **CVPR 2025!** 🥳
+
+**Feb  2024** I have joined the Multimodal AI Lab!
+
+## Publications
+**"VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness"**
+
+SeungJu Cha, Kwanyoung Lee, **Ye-Chan Kim**, Hyunwoo Oh, Dong-Jin Kim (CVPR 2025)
+
+
+
 
 ## Experience
 - Sejong University, Seoul / Sejong RCV Lab URP program ```(07/2023 ~ 09/2023)```
