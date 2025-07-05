@@ -13,7 +13,7 @@
 
 ## News
 **Jul  2025** Two papers have been accepted in **ACM MM 2025!** 🥳
-Also, my first-authored paper! 
+Also, I have published my first paper as the first author! 
 
 
 **Mar  2025** One paper is accepted in **CVPR 2025**
