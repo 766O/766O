@@ -16,7 +16,7 @@
 Also, I have published my first paper as the first author! 
 
 
-**Mar  2025** One paper is accepted in **CVPR 2025**
+**Mar  2025** One paper has been accepted in **CVPR 2025**
 
 **Feb  2024** I have joined the Multimodal AI Lab!
 
