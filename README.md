@@ -12,13 +12,13 @@
 - Prompt
 
 ## News
-**Jul  2025** Two papers have been accepted in **ACM MM 2025!** 🥳
+**Jul  2025.** Two papers have been accepted in **ACM MM 2025!** 🥳
 Also, I have published my first paper as the first author! 
 
 
-**Mar  2025** One paper has been accepted in **CVPR 2025**
+**Mar  2025.** One paper has been accepted in **CVPR 2025**
 
-**Feb  2024** I have joined the Multimodal AI Lab!
+**Feb  2024.** I have joined the Multimodal AI Lab!
 
 ## Publications
 **"SIDA: Synthetic Image Driven Zero-shot Domain Adaptation"**
