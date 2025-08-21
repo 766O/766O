@@ -9,10 +9,13 @@
 ## Field of interest
 - Multimodal Learning
 - VLM
-- Prompt
+- Data issues in deep learning
 
 ## News
-**Jul  2025.** Two papers have been accepted in **ACM MM 2025!** 🥳
+**Aug  2025.** One paper has been accepted in **EMNLP 2025!** 🥳
+
+
+**Jul  2025.** Two papers have been accepted in **ACM MM 2025!**
 Also, I have published my first paper as the first author! 
 
 
@@ -21,6 +24,10 @@ Also, I have published my first paper as the first author!
 **Feb  2024.** I have joined the Multimodal AI Lab!
 
 ## Publications
+**"Sali4Vid: Saliency-Aware Video Reweighting and Adaptive Caption Retrieval for Dense Video Captioning"**
+
+MinJu Jeon, Si-Woo Kim, **Ye-Chan Kim**, HyunGee Kim, Dong-Jin Kim (EMNLP 2025, long, main)
+
 **"SIDA: Synthetic Image Driven Zero-shot Domain Adaptation"**
 
 **Ye-Chan Kim**, SeungJu Cha, Si-Woo Kim, Taewhan Kim, Dong-Jin Kim (ACM MM 2025)
