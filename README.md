@@ -15,9 +15,9 @@
 
 ### 2025
 
-**Nov 2025.** Selected as a recipient of the AI SeoulTech Graduate Scholarship.🥳  
+**Nov 2025.** I was selected as a recipient of the AI SeoulTech Graduate Scholarship.🥳  
 
-**Sep 2025.** Selected for the 2025 NRF of Korea Master’s Student Research Encouragement Program.  
+**Sep 2025.** I was selected as a recipient of the NRF Korea Master's Fellowship.
 
 **Aug 2025.** One paper has been accepted in **EMNLP 2025!**  
 
