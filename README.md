@@ -12,16 +12,29 @@
 - Data issues in deep learning
 
 ## News
-**Aug  2025.** One paper has been accepted in **EMNLP 2025!** 🥳
 
+### 2025
 
-**Jul  2025.** Two papers have been accepted in **ACM MM 2025!**
-Also, I have published my first paper as the first author! 
+**Nov 2025.** Selected as a recipient of the AI SeoulTech Graduate Scholarship.🥳  
 
+**Sep 2025.** Selected for the 2025 NRF of Korea Master’s Student Research Encouragement Program.  
 
-**Mar  2025.** One paper has been accepted in **CVPR 2025**
+**Aug 2025.** One paper has been accepted in **EMNLP 2025!**  
 
-**Feb  2024.** I have joined the Multimodal AI Lab!
+**Jul 2025.** Two papers have been accepted in **ACM MM 2025!**  
+Also, I have published my first paper as the first author!  
+
+**Mar 2025.** One paper has been accepted in **CVPR 2025!**
+
+---
+
+<details>
+  <summary><strong>2024</strong></summary>
+
+**Feb 2024.** I have joined the Multimodal AI Lab!
+
+</details>
+
 
 ## Publications
 **"Sali4Vid: Saliency-Aware Video Reweighting and Adaptive Caption Retrieval for Dense Video Captioning"**
