@@ -13,9 +13,12 @@
 
 ## News
 
+### 2026
+**Feb 2026.** One paper has been accepted in **CVPR 2026!** 🥳
+
 ### 2025
 
-**Nov 2025.** I was selected as a recipient of the AI SeoulTech Graduate Scholarship.🥳  
+**Nov 2025.** I was selected as a recipient of the AI SeoulTech Graduate Scholarship.
 
 **Aug 2025.** I was selected as a recipient of the NRF Korea Master's Fellowship.
 
