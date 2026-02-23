@@ -41,6 +41,7 @@ Also, I have published my first paper as the first author!
 
 ## Publications
 **"SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning"**
+
 **Ye-Chan Kim**, SeungJu Cha, Si-Woo Kim, MinJu Jeon, HyunGee Kim, Dong-Jin Kim (CVPR 2026)
 
 **"Sali4Vid: Saliency-Aware Video Reweighting and Adaptive Caption Retrieval for Dense Video Captioning"**
