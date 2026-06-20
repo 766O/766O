@@ -14,9 +14,18 @@
 ## News
 
 ### 2026
-**Feb 2026.** One paper has been accepted in **CVPR 2026!** 🥳
+**Jun 2026.** I was selected as a recipient for two scholarship programs!🥳
 
-### 2025
+(1) AI SeoulTech Graduate Scholarship.
+
+(2) Master's Scholarship for Excellence in Science & Engineering. 
+
+**Feb 2026.** One paper has been accepted in **CVPR 2026!** 
+
+---
+
+<details>
+  <summary><strong>2025</strong></summary>
 
 **Nov 2025.** I was selected as a recipient of the AI SeoulTech Graduate Scholarship.
 
@@ -28,6 +37,7 @@
 Also, I have published my first paper as the first author!  
 
 **Mar 2025.** One paper has been accepted in **CVPR 2025!**
+</details>
 
 ---
 
