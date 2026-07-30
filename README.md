@@ -8,13 +8,15 @@
 
 ## Field of interest
 - Multimodal Learning
-- VLM
+- MLLM
 - Data issues in deep learning
 
 ## News
 
 ### 2026
-**Jun 2026.** I was selected as a recipient for two scholarship programs!🥳
+**Aug 2026.** Started research internship at Naver Cloud, HyperCLOVA X Omni-modal Team! 🥳
+
+**Jun 2026.** I was selected as a recipient for two scholarship programs!
 
 (1) AI SeoulTech Graduate Scholarship.
 
@@ -77,13 +79,5 @@ SeungJu Cha, Kwanyoung Lee, **Ye-Chan Kim**, Hyunwoo Oh, Dong-Jin Kim (CVPR 2025
 - Sejong University, Seoul / Sejong RCV Lab URP program ```(07/2023 ~ 09/2023)```
 - Hanyang University, Seoul / Multimodal AI Lab Undergraduate Intern  ```(02/2024 ~ 02/2025)```
 - Hanyang University, Seoul / Multimodal AI Lab M.S. / Ph.D. Integrated  ```(03/2025 ~ )```
+- Naver Cloud, Seongnam / Research Intern ```(08/2026 ~ )```
 
-## Blog
-<div style="display:flex; flex-direction:row;">
-    <a href="https://dpcksdl78.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory"> 
-    </a>
-
-   
-
-</div>
