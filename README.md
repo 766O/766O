@@ -14,7 +14,7 @@
 ## News
 
 ### 2026
-**Aug 2026.** Started research internship at Naver Cloud, HyperCLOVA X Omni-modal Team! 🥳
+**Aug 2026.** Started research internship at Naver Cloud, Multimodal Foundation Team! 🥳
 
 **Jun 2026.** I was selected as a recipient for two scholarship programs!
 
