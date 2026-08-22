@@ -14,7 +14,9 @@
 ## News
 
 ### 2026
-**Aug 2026.** Started research internship at Naver Cloud, Multimodal Foundation Team! 🥳
+**Aug 2026.** One paper has been accepted in **EMNLP 2026!**  🥳
+
+**Aug 2026.** Started research internship at Naver Cloud, Multimodal Foundation Team!
 
 **Jun 2026.** I was selected as a recipient for two scholarship programs!
 
@@ -52,6 +54,10 @@ Also, I have published my first paper as the first author!
 
 
 ## Publications
+**"Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"**
+
+**Ye-Chan Kim**, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, HyunGee Kim, Dong-Jin Kim (CVPR 2026)
+
 **"SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning"**
 
 **Ye-Chan Kim**, SeungJu Cha, Si-Woo Kim, MinJu Jeon, HyunGee Kim, Dong-Jin Kim (CVPR 2026)
