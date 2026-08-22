@@ -56,7 +56,7 @@ Also, I have published my first paper as the first author!
 ## Publications
 **"Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"**
 
-**Ye-Chan Kim**, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, HyunGee Kim, Dong-Jin Kim (CVPR 2026)
+**Ye-Chan Kim**, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, HyunGee Kim, Dong-Jin Kim (EMNLP 2026, long, main)
 
 **"SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning"**
 
