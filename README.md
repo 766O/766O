@@ -14,7 +14,9 @@
 ## News
 
 ### 2026
-**Aug 2026.** One paper has been accepted in **EMNLP 2026!**  🥳
+**Sep 2026.** One paper has been accepted in **ACCV 2026!** 🥳
+
+**Aug 2026.** One paper has been accepted in **EMNLP 2026!** 
 
 **Aug 2026.** Started research internship at Naver Cloud, Multimodal Foundation Team!
 
@@ -54,6 +56,9 @@ Also, I have published my first paper as the first author!
 
 
 ## Publications
+**"Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling"**
+SeungJu Cha, **Ye-Chan Kim**, Kwanyoung Lee, Dong-Jin Kim (ACCV 2026)
+
 **"Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"**
 
 **Ye-Chan Kim**, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, HyunGee Kim, Dong-Jin Kim (EMNLP 2026, long, main)
