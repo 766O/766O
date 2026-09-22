@@ -57,6 +57,7 @@ Also, I have published my first paper as the first author!
 
 ## Publications
 **"Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling"**
+
 SeungJu Cha, **Ye-Chan Kim**, Kwanyoung Lee, Dong-Jin Kim (ACCV 2026)
 
 **"Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"**
