@@ -14,7 +14,9 @@
 ## News
 
 ### 2026
-**Sep 2026.** One paper has been accepted in **ACCV 2026!** 🥳
+**Sep 2026.** One paper has been accepted in **NeurIPS 2026!** 🥳
+
+**Sep 2026.** One paper has been accepted in **ACCV 2026!** 
 
 **Aug 2026.** One paper has been accepted in **EMNLP 2026!** 
 
@@ -56,6 +58,9 @@ Also, I have published my first paper as the first author!
 
 
 ## Publications
+**"Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation"**
+SeungJu Cha, **Ye-Chan Kim**, HyunGee Kim, Sungho Koh, Dong-Jin Kim (NeurIPS 2026)
+
 **"Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling"**
 
 SeungJu Cha, **Ye-Chan Kim**, Kwanyoung Lee, Dong-Jin Kim (ACCV 2026)
