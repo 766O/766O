@@ -59,6 +59,7 @@ Also, I have published my first paper as the first author!
 
 ## Publications
 **"Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation"**
+
 SeungJu Cha, **Ye-Chan Kim**, HyunGee Kim, Sungho Koh, Dong-Jin Kim (NeurIPS 2026)
 
 **"Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling"**
