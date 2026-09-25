@@ -57,7 +57,23 @@ Also, I have published my first paper as the first author!
 </details>
 
 
-## Publications
+## Selected Publications
+**"Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"**
+
+**Ye-Chan Kim**, Seunghee Choi, SeungJu Cha, Si-Woo Kim, Hwiseon Kim, HyunGee Kim, Dong-Jin Kim (EMNLP 2026, long, main)
+
+**"SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning"**
+
+**Ye-Chan Kim**, SeungJu Cha, Si-Woo Kim, MinJu Jeon, HyunGee Kim, Dong-Jin Kim (CVPR 2026)
+
+**"SIDA: Synthetic Image Driven Zero-shot Domain Adaptation"**
+
+**Ye-Chan Kim**, SeungJu Cha, Si-Woo Kim, Taewhan Kim, Dong-Jin Kim (ACM MM 2025)
+
+<details>
+  <summary><strong>All Publications</strong></summary>
+
+
 **"Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation"**
 
 SeungJu Cha, **Ye-Chan Kim**, HyunGee Kim, Sungho Koh, Dong-Jin Kim (NeurIPS 2026)
