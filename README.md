@@ -106,6 +106,8 @@ Si-Woo Kim, MinJu Jeon, **Ye-Chan Kim**, Soeun Lee, Taewhan Kim, Dong-Jin Kim (A
 
 SeungJu Cha, Kwanyoung Lee, **Ye-Chan Kim**, Hyunwoo Oh, Dong-Jin Kim (CVPR 2025)
 
+</details>
+
 
 
 
