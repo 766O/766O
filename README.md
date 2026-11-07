@@ -14,7 +14,9 @@
 ## News
 
 ### 2026
-**Sep 2026.** One paper has been accepted in **NeurIPS 2026!** 🥳
+**Oct 2026.** Selected as a Finalist in Qualcomm Innovation Fellowship Korea 2026! 🥳
+
+**Sep 2026.** One paper has been accepted in **NeurIPS 2026!** 
 
 **Sep 2026.** One paper has been accepted in **ACCV 2026!** 
 
